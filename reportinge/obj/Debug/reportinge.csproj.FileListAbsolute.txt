@@ -1,0 +1,11 @@
+C:\Users\achra\OneDrive\Documents\GitHub\project_selenium\reportinge\bin\Debug\reportinge.exe.config
+C:\Users\achra\OneDrive\Documents\GitHub\project_selenium\reportinge\bin\Debug\reportinge.exe
+C:\Users\achra\OneDrive\Documents\GitHub\project_selenium\reportinge\bin\Debug\reportinge.pdb
+C:\Users\achra\OneDrive\Documents\GitHub\project_selenium\reportinge\obj\Debug\reportinge.csproj.AssemblyReference.cache
+C:\Users\achra\OneDrive\Documents\GitHub\project_selenium\reportinge\obj\Debug\reportinge.csproj.SuggestedBindingRedirects.cache
+C:\Users\achra\OneDrive\Documents\GitHub\project_selenium\reportinge\obj\Debug\reportinge.Properties.Resources.resources
+C:\Users\achra\OneDrive\Documents\GitHub\project_selenium\reportinge\obj\Debug\reportinge.csproj.GenerateResource.cache
+C:\Users\achra\OneDrive\Documents\GitHub\project_selenium\reportinge\obj\Debug\reportinge.csproj.CoreCompileInputs.cache
+C:\Users\achra\OneDrive\Documents\GitHub\project_selenium\reportinge\obj\Debug\reportinge.exe
+C:\Users\achra\OneDrive\Documents\GitHub\project_selenium\reportinge\obj\Debug\reportinge.pdb
+C:\Users\achra\OneDrive\Documents\GitHub\project_selenium\reportinge\obj\Debug\reportinge.Form1.resources
